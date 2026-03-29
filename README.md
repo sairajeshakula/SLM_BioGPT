@@ -59,7 +59,7 @@ Leveraging domain-specific data from PubMed and a pretrained biomedical tokenize
 
 Loss curve visualization:
 
-![Loss](images/loss.png)
+![Loss](images/loss.png?raw=true)
 
 ## ⚠️ Limitations
 
