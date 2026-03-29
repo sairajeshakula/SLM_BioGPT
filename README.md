@@ -59,11 +59,10 @@ Leveraging domain-specific data from PubMed and a pretrained biomedical tokenize
 
 Loss curve visualization:
 
-```
+
 <p align="center">
   <img src="images/loss.png" alt="Training Loss Curve" width="600"/>
 </p>
-```
 
 ## ⚠️ Limitations
 
